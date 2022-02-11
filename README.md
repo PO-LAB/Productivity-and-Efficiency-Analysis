@@ -54,7 +54,8 @@ Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 --------
 
 ### **隨機半參數數據包絡 Stochastic Semi-Nonparametric Envelopment of Data (StoNED)**
-[pyStoNED](https://pystoned.readthedocs.io/en/latest/)
+1. [Introduction to Stochastic Semi-Nonparametric Envelopment of Data (StoNED)](http://polab.im.ntu.edu.tw/Talk/2015_StoNED.pdf)
+2. Python Package: [pyStoNED](https://pystoned.readthedocs.io/en/latest/)
 
 ### **數據包絡分析 Data Envelopment Analysis (DEA) Examples**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
