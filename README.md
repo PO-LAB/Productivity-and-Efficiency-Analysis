@@ -3,7 +3,7 @@
 
 This webpage provides supporting materials for the course [Productivity and Efficiency Analysis](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=725%20U3680&class=&dpt_code=7050&ser_no=41440&semester=110-2&lang=CH)
 
-Instructor: Chia-Yen Lee, Ph.D. (http://polab.im.ntu.edu.tw/Bio.html)
+Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 
 
 ### **助教**
