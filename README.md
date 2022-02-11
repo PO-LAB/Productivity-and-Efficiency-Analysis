@@ -10,7 +10,7 @@ Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 
 |擔任年份|助教 TAs|信箱 :mailbox_closed:|
 |----|----|----|
-|2022|吳延東 (Yen-Tung Wu)<br>江采嬪 (Tsai-Pin Chiang)|r09725049@ntu.edu.tw<br>r10725034@ntu.edu.tw
+|2022|吳延東(Yen-Tung Wu)<br>江采嬪(Tsai-Pin Chiang)|r09725049@ntu.edu.tw<br>r10725034@ntu.edu.tw
 
 ----------------------------------------
 # Data-Envelopment-Analysis
