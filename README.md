@@ -53,10 +53,10 @@ Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 |2018-03-23|Relational network DEA function|[Documentation](https://github.com/wurmen/DEA/blob/master/Functions/network_DEA_function.md) / [Example](https://github.com/wurmen/DEA/blob/master/Functions/network_data%26code/Network_DEA_function_example.ipynb) / [Code](https://github.com/wurmen/DEA/blob/master/Functions/network_data%26code/network_function.py) / [Folder](https://github.com/wurmen/DEA/tree/master/Functions/network_data%26code)|
 --------
 
-### **Stochastic Semi-Nonparametric Envelopment of Data (StoNED)**
+### **隨機半參數數據包絡 Stochastic Semi-Nonparametric Envelopment of Data (StoNED)**
 [pyStoNED](https://pystoned.readthedocs.io/en/latest/)
 
-### **Data Envelopment Analysis (DEA) Examples**
+### **數據包絡分析 Data Envelopment Analysis (DEA) Examples**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
 2. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
 3. [網路數據包絡分析(Network Data Envelopment Analysis)](https://github.com/wurmen/DEA/blob/master/Network_DEA/network_dea.md)
