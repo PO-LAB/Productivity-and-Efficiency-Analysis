@@ -52,8 +52,14 @@ Instructor Chia-Yen Lee, Ph.D. (http://polab.im.ntu.edu.tw/Bio.html)
 |2018-03-23|Read data function for network DEA|[Documentation](https://github.com/wurmen/DEA/blob/master/Functions/read_data_for_networkDEA.md) / [Example](https://github.com/wurmen/DEA/blob/master/Functions/network_data%26code/Read_data_for_network_DEA_function%20example.ipynb) / [Code](https://github.com/wurmen/DEA/blob/master/Functions/network_data%26code/network_function.py) / [Folder](https://github.com/wurmen/DEA/tree/master/Functions/network_data%26code)|
 |2018-03-23|Relational network DEA function|[Documentation](https://github.com/wurmen/DEA/blob/master/Functions/network_DEA_function.md) / [Example](https://github.com/wurmen/DEA/blob/master/Functions/network_data%26code/Network_DEA_function_example.ipynb) / [Code](https://github.com/wurmen/DEA/blob/master/Functions/network_data%26code/network_function.py) / [Folder](https://github.com/wurmen/DEA/tree/master/Functions/network_data%26code)|
 --------
-### 參考資源(Python-Gurobi)
 
+### **Data Envelopment Analysis (DEA) Examples**
+1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
+2. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
+3. [網路數據包絡分析(Network Data Envelopment Analysis)](https://github.com/wurmen/DEA/blob/master/Network_DEA/network_dea.md)
+4. [隨機無母數數據包絡(Stochastic Nonparametric Envelopment of Data, StoNED)](https://pystoned.readthedocs.io/en/latest/#)
+5. [汙染物邊際減排成本估計(Marginal Abatement Cost Estimation of CO2, SO2, and NOx)](https://github.com/JaneChien-42/DSP-Estimation-of-Pollutants)
+6. [保險業效率分析-網路DEA(Efficiency Measure in Insurance Industry- Network DEA)](https://github.com/wuyentung/ORA_final_project/blob/main/Efficiency%20Measure%20in%20Insurance%20Industry%20–%20A%20Network%20DEA%20Model.md)
 
 ### :triangular_flag_on_post: Python+Pulp
 |更新時間|文章|
