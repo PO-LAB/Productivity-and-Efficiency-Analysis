@@ -64,6 +64,8 @@ Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 4. [隨機無母數數據包絡(Stochastic Nonparametric Envelopment of Data, StoNED)](https://pystoned.readthedocs.io/en/latest/#)
 5. [汙染物邊際減排成本估計(Marginal Abatement Cost Estimation of CO2, SO2, and NOx)](https://github.com/JaneChien-42/DSP-Estimation-of-Pollutants)
 6. [保險業效率分析-網路DEA(Efficiency Measure in Insurance Industry- Network DEA)](https://github.com/wuyentung/ORA_final_project/blob/main/Efficiency%20Measure%20in%20Insurance%20Industry%20–%20A%20Network%20DEA%20Model.md)
+7. [非意欲產出- 動態SBM雙重生產技術(Dynamic SBM with By-Production Technologies)](https://github.com/zhuangxinyu/Dynamic-SBM-by-production-technologies)
+
 
 ### :triangular_flag_on_post: Python+Pulp
 |更新時間|文章|
