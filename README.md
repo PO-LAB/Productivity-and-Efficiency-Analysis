@@ -67,7 +67,7 @@ Instructor: [Chia-Yen Lee, Ph.D.](http://polab.im.ntu.edu.tw/Bio.html)
 7. [非意欲產出- 動態SBM雙重生產技術(Dynamic SBM with By-Production Technologies)](https://github.com/zhuangxinyu/Dynamic-SBM-by-production-technologies)
 8. [環境變數於兩階段數據包絡分析(Introducing Environmental Variables in Two-Stage DEA and Conditional Efficiency Model with Test of the Separability Assumption)](https://github.com/boboru/environmental-variables-in-dea/blob/main/Introducing%20Environmental%20Variables%20in%20Two-Stage%20DEA%20and%20Conditional%20Efficiency%20Model%20with%20Test%20of%20the%20Separability%20Assumption.pdf)
 9. [學術社群網路分析(Data Envelopment Analysis for Academic Social Network Analysis)](https://github.com/PJL-Emily/Data-Envelopment-Analysis-for-Academic-Social-Network-Analysis)
-10. [焚化廠的碳交易與排放權配置(Cap-and-Trade and Allocation of emission permits for Incineration Plants)](https://github.com/TsaiPinChiang/110-2PEA_Final/blob/main/Tutorial%20Report.md)
+10. [焚化廠的碳交易與排放權配置(Cap-and-Trade and Allocation of Emission Permits for Incineration Plants)](https://github.com/TsaiPinChiang/110-2PEA_Final/blob/main/Tutorial%20Report.md)
 11. [數據包絡分析於機器學習超參數最佳化(Machine Learning Hyperparameters Tuning Using DEA-VRS Model)](https://github.com/agy485/PEA_final_report)
 
 
